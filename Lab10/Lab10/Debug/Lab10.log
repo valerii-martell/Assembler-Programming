@@ -1,0 +1,7 @@
+﻿  Assembling longop.asm...
+  Assembling module.asm...
+  stdafx.cpp
+  Lab10.cpp
+c:\users\валерий\desktop\lab10\lab10\lab10.cpp(193): warning C4838: преобразование из "unsigned int" в "long" требует сужающего преобразования
+c:\users\валерий\desktop\lab10\lab10\lab10.cpp(195): warning C4838: преобразование из "unsigned int" в "long" требует сужающего преобразования
+  Lab10.vcxproj -> C:\Users\Валерий\Desktop\Lab10\Debug\Lab10.exe
